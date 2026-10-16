@@ -1,0 +1,17 @@
+{
+  "name": "口袋工具箱",
+  "short_name": "口袋工具箱",
+  "description": "换算、汇率、AA 分账、记账、倒数日、AI 行程规划……日常小工具都在一个 App 里。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EFEFEC",
+  "theme_color": "#EFEFEC",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
